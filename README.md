@@ -50,7 +50,8 @@ This Power BI project analyzes client engagement patterns, revenue contributions
 
 ## 📈 Sample Dashboard
 
-> *(https://github.com/ArtiBankar/Ambit-Data-Analytics-Internship---Assignment/commit/2b6d98a5842c1bc5c5c000193d0e1f32db1688d1)*
+![Power BI Dashboard](dashboard-preview.png)
+
 
 ## ✅ How to Use
 
