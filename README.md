@@ -50,8 +50,8 @@ This Power BI project analyzes client engagement patterns, revenue contributions
 
 ## 📈 Sample Dashboard
 
-![Power BI Dashboard](dashboard-preview.png)
-
+![Power BI Dashboard](Dashboard.png)
+<img src="Dashboard.png" alt="Dashboard" width="700"/>
 
 ## ✅ How to Use
 
